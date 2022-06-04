@@ -1,0 +1,6 @@
+cryptography==37.0.2
+dearpygui==1.6.2
+psutil==5.9.0
+pypresence==4.2.1
+pywin32==304
+requests==2.27.1
