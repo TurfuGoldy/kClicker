@@ -25,7 +25,7 @@
 - Nothing for the moment, if you have a suggestion don't hesitate to join our Discord and propose it! (https://clicker.best)
 
 ## Usage
-You can either use the compiled version (.exe) or use the Python version by downloading the dependencies in the requirements.txt file first (+the pytransform folder must be in the same folder as the Python clicker).
+You can either use the compiled version (.exe) in releases section or use the Python version by downloading the dependencies in the requirements.txt file first (+the pytransform folder must be in the same folder as the Python clicker).
 
 ## About
 kClicker is a project I developed for fun after years of using clickers that didn't have all the features I wanted. I know it's not perfect but I tried to do my best and the main goal was to have my own clicker where I can modify what I want!
